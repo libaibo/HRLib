@@ -1,0 +1,6 @@
+framework module HRLib {
+  umbrella header "HRLib.h"
+
+  export *
+  module * { export * }
+}
