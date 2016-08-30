@@ -23,7 +23,7 @@ TODO: Add long description of the pod here.
 
   s.ios.deployment_target = '8.0'
 
-  
+  s.source_files = 'HRLib.framework/**/*.{h,m}'
   s.ios.vendored_frameworks = 'HRLib.framework'
   s.frameworks = 'UIKit'
   s.dependency 'AFNetworking', '~>3.1.0'
