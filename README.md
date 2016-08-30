@@ -7,6 +7,8 @@ pod repo add libaibo https://github.com/libaibo/HRLib.git
 
 source 'https://github.com/libaibo/HRLib.git'  #我们自己的私有spec仓库的地址
 
+source 'https://github.com/CocoaPods/Specs.git'  #官方仓库的地址
+
 pod 'HRLib'
 
 3、创建或者更新
