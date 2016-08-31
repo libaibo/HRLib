@@ -8,7 +8,7 @@
 
 Pod::Spec.new do |s|
   s.name             = 'HRLib'
-  s.version          = '0.1.1'
+  s.version          = '0.0.1'
   s.summary          = 'sample tool'
 
 
@@ -25,7 +25,7 @@ TODO: Add long description of the pod here.
   s.requires_arc = true
 
   s.source_files = 'HRLib.framework/**/*.{h}'
-  s.vendored_frameworks = 'HRLib.framework'
+  #s.vendored_frameworks = 'HRLib.framework'
 
   s.frameworks = 'UIKit'
   #s.dependency 'AFNetworking', '~>3.1.0'
