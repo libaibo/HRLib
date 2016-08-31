@@ -22,9 +22,11 @@ TODO: Add long description of the pod here.
   s.source           = { :git => 'https://github.com/libaibo/HRLib.git', :tag => s.version.to_s }
 
   s.ios.deployment_target = '8.0'
+  s.requires_arc = true
 
   s.source_files = 'HRLib.framework/**/*.{h}'
   s.vendored_frameworks = 'HRLib.framework'
+
   s.frameworks = 'UIKit'
   s.dependency 'AFNetworking', '~>3.1.0'
 end
