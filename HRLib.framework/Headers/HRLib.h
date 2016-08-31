@@ -18,5 +18,5 @@ FOUNDATION_EXPORT const unsigned char HRLibVersionString[];
 
 
 
-#import "HRMath.h"
-#import "HREnv.h"
+#import <HRLib/HRMath.h>
+#import <HRLib/HREnv.h>
