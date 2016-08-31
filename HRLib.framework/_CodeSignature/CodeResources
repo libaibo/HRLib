@@ -4,9 +4,17 @@
 <dict>
 	<key>files</key>
 	<dict>
+		<key>Headers/HREnv.h</key>
+		<data>
+		QlsOMva5esrVR+nBoRlDuagAj+o=
+		</data>
 		<key>Headers/HRLib.h</key>
 		<data>
 		NRO+U/tuVrqnktELEFCUCKn6wko=
+		</data>
+		<key>Headers/HRMath.h</key>
+		<data>
+		Ezeu5adfRr6HXGSZp9UG+2KuGO8=
 		</data>
 		<key>Info.plist</key>
 		<data>
@@ -19,6 +27,17 @@
 	</dict>
 	<key>files2</key>
 	<dict>
+		<key>Headers/HREnv.h</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			QlsOMva5esrVR+nBoRlDuagAj+o=
+			</data>
+			<key>hash2</key>
+			<data>
+			FNK8b6dx9gqongsgIffkHk2bWp1siBlA5QICSYUft2M=
+			</data>
+		</dict>
 		<key>Headers/HRLib.h</key>
 		<dict>
 			<key>hash</key>
@@ -28,6 +47,17 @@
 			<key>hash2</key>
 			<data>
 			POW+q+UI45oWQRxrlPzjiu2eW6D7vvsDed2np3NslOE=
+			</data>
+		</dict>
+		<key>Headers/HRMath.h</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			Ezeu5adfRr6HXGSZp9UG+2KuGO8=
+			</data>
+			<key>hash2</key>
+			<data>
+			lbUxZSCZqMfahFqf9hw9RfmY3Nk65zJhGSuT26IpCy4=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
